@@ -22,7 +22,7 @@
     "erasableSyntaxOnly": true,
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true,
-    "types": ["node"],
+    "types": ["node","react", "react-dom"],
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"]
